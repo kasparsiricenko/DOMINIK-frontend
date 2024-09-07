@@ -1,0 +1,11 @@
+{
+  "main": {
+    "profit": "Skatīt peļņu",
+    "productRequest": "Papildināt produktus",
+    "yearComparison": "Salīdzināt ar pagājušo gadu",
+    "illiquidStock": "Pārvaldīt nepārdotos produktus",
+    "basicSeasonal": "Pārvaldīt pamata un sezonas krājumus",
+    "marketing": "Pārvaldīt mārketinga kampaņas",
+    "invoicing": "Pārvaldīt rēķinus"
+  }
+}

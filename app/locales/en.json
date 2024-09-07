@@ -1,0 +1,11 @@
+{
+  "main": {
+    "profit": "View Profit",
+    "productRequest": "Restock Products",
+    "yearComparison": "Compare to Last Year",
+    "illiquidStock": "Manage Unsold Stock",
+    "basicSeasonal": "Manage Basic & Seasonal Stock",
+    "marketing": "Manage Marketing Campaigns",
+    "invoicing": "Manage Invoices"
+  }
+}
