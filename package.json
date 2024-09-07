@@ -15,9 +15,12 @@
     "@remix-run/react": "^2.11.2",
     "@remix-run/serve": "^2.11.2",
     "axios": "^1.7.7",
+    "i18next": "^23.14.0",
     "isbot": "^4.1.0",
+    "lucide-react": "^0.439.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-i18next": "^15.0.1"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.11.2",
